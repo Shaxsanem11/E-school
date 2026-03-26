@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>E-school</title>
+    <style>
+        .school-description{
+            font-family: sans-serif;
+            font-size: 24px;
+            font-weight: 700;
+            text-align: center;
+            margin: 0 80px;
+            background-color: goldenrod;
+            padding: 30px 0;
+            border-radius: 20px;
+        }
+    </style>
+</head>
+<body>
+<h1>E-school</h1>
+<img src="pngtree-school-building-cute-png-image_15445403.png">
+<p class="school-description">Bizin mektebimiz zamanagoy texnologiyalar ham tajiriybeli ustazlar jardeminde bilim beriwdi maqset etken.</p>
+<h3 class="school-opportunities">Mektebimizdegi imkaniyatlar</h3>
+<ul>
+    <li>Zamanagoy kompyuter bolmesi</li>
+    <li>Ulken sport zal</li>
+    <li>Qolayli asxana</li>
+</ul>
+
+</body>
+</html>
